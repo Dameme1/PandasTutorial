@@ -3,7 +3,7 @@ Pandas is a python library for working with data sets.
 
 The functions of pandas is to analyze, explore, and then clean and manipulate data. 
 
-### Here I will be showcasing an overview of my dive into Pandas and learning its concepts. 
+### [Here](https://github.com/Dameme1/PandasTutorial/blob/main/Tameem_Python_Tutorial.ipynb) I will be showcasing an overview of my dive into Pandas and learning its concepts. 
 
 
 
